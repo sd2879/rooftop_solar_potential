@@ -46,28 +46,10 @@ This project is designed to estimate the rooftop solar energy potential in a giv
    python preprocess.py --data <path_to_data>
    ```
 
-2. Train the machine learning model for solar potential estimation:
-
-   ```bash
-   python train_model.py --config config.yaml
-   ```
-
-3. Analyze a specific region:
-
-   ```bash
-   python analyze_region.py --coordinates <latitude,longitude> --radius <distance_in_km>
-   ```
-
-4. Visualize the results:
-
-   ```bash
-   python visualize.py --input <path_to_results>
-   ```
-
 ## Model Details
 
-- **Model Architecture**: Uses a combination of CNNs (Convolutional Neural Networks) for image classification and regression to estimate solar potential.
-- **Training Data**: Processed from publicly available satellite imagery datasets.
+- **Model Architecture**: Using Yolov8.
+- **Training Data**: Processed from custom satellite imagery datasets.
 
 ## Results
 
