@@ -17,7 +17,6 @@ This project is designed to estimate the rooftop solar energy potential in a giv
 - [Model Details](#model-details)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -83,7 +82,3 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -am 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
