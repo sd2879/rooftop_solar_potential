@@ -49,7 +49,7 @@ This project is designed to estimate the rooftop solar energy potential in a giv
 ## Model Details
 
 - **Model Architecture**: Using Yolov8.
-- **Training Data**: Processed from custom satellite imagery datasets.
+- **Training Data**: Processed from custom satellite imagery datasets. Roboflow Data-> https://universe.roboflow.com/sdtest-0m34s/solar_rooftop_detections
 
 ## Results
 
